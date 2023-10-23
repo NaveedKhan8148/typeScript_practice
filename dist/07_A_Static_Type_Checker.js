@@ -1,0 +1,4 @@
+"use strict";
+// TypeScript: A Static Type Checker
+const obj = { width: 10, height: 15 };
+// const area = obj.width * obj.heigth;
